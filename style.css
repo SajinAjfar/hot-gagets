@@ -1,6 +1,38 @@
 #logo{
     padding-right: 600px;
 }
-.container{
+.container1{
     padding-top: 50px;
+}
+.container2{
+    padding-bottom: 60px;
+}
+.see-all{
+    color: #FFBB24;
+}
+.categories{
+    padding-bottom: 70px;
+}
+.product{
+    padding-bottom: 80px;
+}
+.btn{
+    text-align: center;
+    background-color: black;
+}
+.card-footer{
+    text-align: center;
+    border: none;
+    background-color: white;
+}
+.last-title{
+    text-align: center;
+    text-decoration: underline #FFBB24;
+}
+.p-2{
+    margin-bottom: 100px;
+    margin-top: 80px;
+}
+.half{
+    box-shadow: 5px 5px 10px gray;
 }
